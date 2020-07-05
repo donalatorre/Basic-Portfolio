@@ -1,0 +1,119 @@
+#encabezado {
+	height: 50px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+
+#cont_encab {
+	height: 100%;
+	width: 960px;
+	vertical-align: middle;
+}
+
+#nombre_encab {
+	border: 1px solid #cccccc;
+	font-family: 'Georgia';
+	font-size: 20px;
+	color: white;
+	background: #4aaaa5;
+	padding: 20px;
+	height: 18px;
+	float: left;
+	text-decoration: none;
+}
+
+.item_encab {
+	float: right;
+	text-decoration: none;
+	font-family: 'Georgia';
+	font-size: 20px;
+	color: grey;
+	padding: 20px;
+	height: 18px;
+}
+
+.overall {
+	background: rgb(220,220,220);
+	top: 0px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+
+.main_sec {
+	padding: 20px;
+	background: white;
+	border: 10px solid #dddddd;
+	vertical-align: middle;
+	width: 960px;
+}
+
+.title_text {
+	color: #4aaaa5;
+	font-family: 'Georgia';
+	font-size: 20px;
+	float: left;
+	margin-left: 30px;
+}
+
+.title_wrap {
+	width: 100%;
+	height: 60px;
+}
+
+.regular_paragraph {
+	color: #777777;
+	text-align: justify;
+	font-family: 'Arial';
+	font-size: 20px;
+}
+
+.image_in_text {
+	margin: 10px 20px 10px 20px;
+	float:left;
+}
+
+#pie_pagina {
+	background: #666666;
+	height: 70px;
+	text-align: center;
+	align-items: center;
+	color: white;
+}
+
+.txtarea {
+	margin-top: 5px;
+	width: 100%;
+	font-family: 'Arial';
+	color: #777777;
+	font-size: 15px;
+}
+
+.sm {
+	width: 100%;
+	height: 50px;
+}
+
+.bg {
+	width: 100%;
+	height: 80px;
+}
+
+.contact_block {
+	font-family: 'Arial';
+	color: #777777;
+	float: left;
+	font-size: 20px;
+}
+
+.submit {
+	background: #4aaaa5;
+	height: 40px;
+	font-family: 'Arial';
+	color: white;
+	font-size: 15px;
+	width: 120px;
+}
